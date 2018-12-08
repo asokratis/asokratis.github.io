@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## Projects
+### 2018
+* [**Python Currency Anywhere**](https://github.com/asokratis/python-currency-anywhere): A command line program where you can get currency in different formats from any service provider.
+* [**How to master the basics of Data Engineering**](https://medium.com/@SoftDevLife/how-to-master-the-basics-of-data-engineering-7a16244dd148): A long article with visuals explaining the role of a Data Engineer. Data Engineers need to be good at data exploration, create data pipelines, have appropriate monitoring & productivity tools, automate & innovate, communicate well with stakeholders, and be motivated.
+### 2017
+* [**My personal development portfolio: selfdevementalmaptour**](https://github.com/softdevlife/contributed_articles/tree/master/selfdevboostermentalmaptour): My first attempt on creating a user guide of all the lessons I learned from the several personal development books I have read between 2014-2016.
+### 2016
+* [**Personal Development Club Presentation**](https://www.youtube.com/watch?v=dmAF5MTUgR4): Presenting important lessons learned from a personal development book called Black Box Thinking by Matthew Syed in a Personal Development Club.
 
-You can use the [editor on GitHub](https://github.com/asokratis/asokratis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Book Reviews
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Business Technology
+* [Becoming Facebook](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/becoming_facebook.md)
+* [Disrupted](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/disruptedmisadventure.md)
+* [Innovation Is A State Of Mind](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/innovation_state_mind.md)
+* [Leading Apple with Steve Jobs](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/leading_apple_with_steve_jobs.md)
+* [The Intention Economy](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/the_intention_economy.md)
 
-### Markdown
+### Career
+* [Designing Your Life](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/designing_your_life.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Engineering
+* [Confident Data Skills](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/confident_data_skills.md)
+* [Winning With Data](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/winning_with_data.md)
 
-```markdown
-Syntax highlighted code block
+### Fashion
+* [Mind What You Wear](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/mind_what_you_wear.md)
 
-# Header 1
-## Header 2
-### Header 3
+### Finance
+* [Your Money Or Your Life](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/your_money_or_your_life.md)
 
-- Bulleted
-- List
+### Game Theory
+* [Uncertainty In Games](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/uncertainty_in_games.md)
 
-1. Numbered
-2. List
+### Personal Development
+* [Black Box Thinking](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/black_box_thinking.md)
+* [Feedback Revolution](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/feedback_revolution.md)
+* [Natural Cognitive Theology](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/natural_cognitive_theology.md)
+* [Originals](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/originals.md)
+* [Smarter, Faster, Better](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/smarter_faster_better.md)
+* [Stopping The Noise In Your Head](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/stoppingthenoiseinyourhead.md)
+* [The Executive's Paradox](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/the_executives_paradox.md)
+* [The Female Brain](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/the_female_brain.md)
+* [The Power Of Habit](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/the_power_of_habit.md)
 
-**Bold** and _Italic_ and `Code` text
+## Game Reviews
 
-[Link](url) and ![Image](src)
-```
+* [Final Fantasy 9](https://medium.com/@SoftDevLife/final-fantasy-9-still-the-best-game-to-learn-more-about-our-self-c5b20d79489d)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Movie Reviews
 
-### Jekyll Themes
+* [17 Again](https://github.com/softdevlife/contributed_articles/blob/master/movies/17again.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asokratis/asokratis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## [Education](https://github.com/softdevlife/contributed_articles/blob/master/education/README.md)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
