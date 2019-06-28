@@ -2,7 +2,7 @@
 
 ### 2019
 * [Optimizing Queries in BigQuery for Beginners](https://medium.com/@SoftDevLife/optimising-queries-in-bigquery-for-beginners-971be491f1de)
-<br> We make a short introduction to what BigQuery contains under the hood and then go through a step by step guide on how to run efficient queries by aggregating the data only once with the use of staging tables from a public session dataset that Google provides. We also discuss in detail a lot of topics in reducing costs in BigQuery, such as converting defined dimensions into metrics, generalize existing dimensions, maintain staging tables with DML statements, using partition and cluster columns, storing raw data in a hierarchical format with nested fields, and how to make users more productive by providing training and visibility of their activity.
+<br> Learn what BigQuery contains under the hood and then go through a step by step guide on how to update data incrementally within a staging table. We discuss in detail several best practices to follow for maintaining costs.
 
 ### 2018
 * [Python Currency Anywhere](https://github.com/asokratis/python-currency-anywhere) 
