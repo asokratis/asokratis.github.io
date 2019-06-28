@@ -2,7 +2,7 @@
 
 ### 2019
 * [Optimizing Queries in BigQuery for Beginners](https://medium.com/@SoftDevLife/optimising-queries-in-bigquery-for-beginners-971be491f1de)
-<br> Learn what BigQuery contains under the hood and then go through a step by step guide on how to update data incrementally within a staging table. We discuss in detail several best practices to follow for maintaining costs.
+<br> Learn what BigQuery contains under the hood. Try our step by step guide on how to update a staging table incrementally. Get to know several best practices to follow for maintaining cost.
 
 ### 2018
 * [Python Currency Anywhere](https://github.com/asokratis/python-currency-anywhere) 
