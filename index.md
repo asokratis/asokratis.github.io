@@ -29,6 +29,7 @@
 
 ### Career
 * [Designing Your Life](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/designing_your_life.md)
+* [The Project Management Book](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/project_management_book.md)
 
 ### Engineering
 * [Confident Data Skills](https://github.com/softdevlife/contributed_articles/blob/master/book_reviews/confident_data_skills.md)
