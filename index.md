@@ -10,14 +10,6 @@
 * [How to master the basics of Data Engineering](https://medium.com/@SoftDevLife/how-to-master-the-basics-of-data-engineering-7a16244dd148)
 <br>A long article with visuals explaining the role of a Data Engineer. Data Engineers need to be good at data exploration, create data pipelines, have appropriate monitoring & productivity tools, automate & innovate, communicate well with stakeholders, and be motivated.
 
-### 2017
-* [My personal development portfolio: selfdevementalmaptour](https://github.com/softdevlife/contributed_articles/tree/master/selfdevboostermentalmaptour)
-<br>My first attempt on creating a user guide of all the lessons I learned from the several personal development books I have read between 2014-2016.
-
-### 2016
-* [Personal Development Club Presentation](https://www.youtube.com/watch?v=dmAF5MTUgR4)
-<br>Presenting important lessons learned from a personal development book called Black Box Thinking by Matthew Syed in a Personal Development Club.
-
 ## Book Reviews
 
 ### Business Technology
